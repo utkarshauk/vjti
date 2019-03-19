@@ -1,4 +1,3 @@
-#vjti
 yog
 utkarsha
 palash
